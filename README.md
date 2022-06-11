@@ -41,7 +41,7 @@ it accepts 3 color formats:
 
 
 # License
-    albert-plugin-colors  Copyright (C) 2022 scmanjarrez.
+    albert-plugin-colors  Copyright (C) 2021-2022 scmanjarrez.
     This program comes with ABSOLUTELY NO WARRANTY; for details check below.
     This is free software, and you are welcome to redistribute it
     under certain conditions; check below for details.
