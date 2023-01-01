@@ -1,6 +1,6 @@
 # __init__ - Albert launcher python plugin (colors)
 
-# Copyright (C) 2021-2022 scmanjarrez
+# Copyright (C) 2021-2023 scmanjarrez
 
 # This file is part of albert-plugin-colors.
 
